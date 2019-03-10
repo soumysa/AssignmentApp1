@@ -22,6 +22,14 @@ namespace AssignmentApp1
             int[] arr = new int[] { 1, 2, 3, 2, 2, 1, 3, 2 };
             computeFrequency(arr);
 
+            //Self Reflection
+            //Naming of the function names are as per ASP.net convention and self explanatory.
+            //printPrimeNumbers(int x, int y) : Takes input of 2 in values and computes the prime numbers between them
+            //isPrime(int num): takes one input and identifies if the number is a prime or not.
+            //getSeriesResult(int n): Calculates the output for the give series in the question.
+            //computeFactorial(int n) is a recurssive function which calculates the factorial of the number.
+            //printTriangle(int n) draws the triangle of as per questions
+            //computeFrequency(int[] arr) takes arr as an input and gets the frequency of each element within the array.
 
         }
 
